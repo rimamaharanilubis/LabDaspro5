@@ -1,6 +1,6 @@
-git config --global user.name {username}
-git config --global user.email {email}
-git clone https://github.com/{username}/LabDaspro5.git
+git config --global user.name rimamaharanilubis
+git config --global user.email maharanilubis250305@gmail.com
+git clone https://github.com/rimamaharanilubis/LabDaspro5.git
 cd LabDaspro5
 git checkout tugas_1
 git pull --all
